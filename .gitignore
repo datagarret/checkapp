@@ -1,0 +1,4 @@
+env/
+.env
+check.db
+__pycache__
